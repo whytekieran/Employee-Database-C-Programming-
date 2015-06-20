@@ -1,0 +1,121 @@
+﻿Build started 30/04/2015 18:49:16.
+     1>Project "B:\Work\Software Development Year 2 GMIT\Advanced C Programming\Labs\G00254624 Employee Database\EmployeeDatabase\EmployeeDatabase.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\EmployeeDatabase.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt DatabaseMenus.c EmployeeDatabase.c
+         EmployeeDatabase.c
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(109): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(110): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(121): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(128): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(153): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(160): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(213): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(217): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(221): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(225): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(233): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(249): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(266): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(281): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(295): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(308): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(315): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(377): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(429): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(461): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(465): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(518): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(526): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(538): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(542): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(546): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(574): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(582): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(594): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(598): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(602): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(630): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(638): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(650): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(654): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(658): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(676): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(687): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(673): warning C4101: 'employee' : unreferenced local variable
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(710): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(714): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(746): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(750): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(754): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(761): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(765): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(769): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(806): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+         DatabaseMenus.c
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\databasemenus.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\databasemenus.c(41): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+         Generating Code...
+     1>b:\work\software development year 2 gmit\advanced c programming\labs\g00254624 employee database\employeedatabase\employeedatabase.c(700): warning C4715: 'readEmployeeFile' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"B:\Work\Software Development Year 2 GMIT\Advanced C Programming\Labs\G00254624 Employee Database\Debug\EmployeeDatabase.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\EmployeeDatabase.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"B:\Work\Software Development Year 2 GMIT\Advanced C Programming\Labs\G00254624 Employee Database\Debug\EmployeeDatabase.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"B:\Work\Software Development Year 2 GMIT\Advanced C Programming\Labs\G00254624 Employee Database\Debug\EmployeeDatabase.lib" /MACHINE:X86 Debug\DatabaseMenus.obj
+         Debug\EmployeeDatabase.obj
+         LINK : B:\Work\Software Development Year 2 GMIT\Advanced C Programming\Labs\G00254624 Employee Database\Debug\EmployeeDatabase.exe not found or not built by the last incremental link; performing full link
+         EmployeeDatabase.vcxproj -> B:\Work\Software Development Year 2 GMIT\Advanced C Programming\Labs\G00254624 Employee Database\Debug\EmployeeDatabase.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"B:\Work\Software Development Year 2 GMIT\Advanced C Programming\Labs\G00254624 Employee Database\Debug\EmployeeDatabase.exe;#1" /manifest Debug\EmployeeDatabase.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\EmployeeDatabase.unsuccessfulbuild".
+         Touching "Debug\EmployeeDatabase.lastbuildstate".
+     1>Done Building Project "B:\Work\Software Development Year 2 GMIT\Advanced C Programming\Labs\G00254624 Employee Database\EmployeeDatabase\EmployeeDatabase.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.59
