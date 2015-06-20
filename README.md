@@ -1,0 +1,1 @@
+# The following program is an employee database. Written using the C programming language, the program uses a linked list of structures to hold the employee records. These records are saved to and retrieved from text files using C file IO. 
